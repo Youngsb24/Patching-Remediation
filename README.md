@@ -1,6 +1,4 @@
 # Patching-Remediation
-.
-
 
 <h2>Patch & Remediation</h2>
 How to determine the best remediation approach (patching, configuration changes, or compensating controls).
