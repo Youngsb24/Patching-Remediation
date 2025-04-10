@@ -130,7 +130,8 @@ Tracking and verifying remediation efforts.
   <br>
   <img src="https://imgur.com/IOK9IhQ.png"  height="60%" width="60%" alt="Disk Sanitization Steps"/>
  </br>
- <h3> - Remediate the discourage Protocols </h3>
+ 
+ <h3> - Remediate the discourage Ciphers & Protocols </h3>
  <br>1. Log into VM</br>
  <br>2. Remove Cipher by running a script in Powershell ISE</br>
  <br>
@@ -149,5 +150,25 @@ Tracking and verifying remediation efforts.
  <img src="https://imgur.com/AHRuqXf.png"  height="60%" width="60%" alt="Disk Sanitization Steps"/>
  </br>
 
- <h3> - Unpausing Windows Update</h3>
  <h3> - Remediate SMB </h3>
+
+ <h3> - Unpausing Windows Update</h3>
+ <br>1. Login into VM</br>
+ <br>2. Go to windows update and unpause the update </br>
+ <br>
+ <img src="https://imgur.com/z8oaUDg.png"  height="60%" width="60%" alt="Disk Sanitization Steps"/>
+ </br>
+ <br>
+ <img src="https://imgur.com/ebQz9NH.png"  height="60%" width="60%" alt="Disk Sanitization Steps"/>
+ </br>
+ <br>3. Refresh for any updates, once updated </br>
+ <br>
+ <img src="https://imgur.com/BEKACNk.png"  height="60%" width="60%" alt="Disk Sanitization Steps"/>
+ </br>
+ <br>4. Restart server</br>
+ <br>5. Re run scan</br>
+ <br>6. Observe findings</br>
+ <br>
+ <img src="https://imgur.com/BRsi6Iu.png"  height="60%" width="60%" alt="Disk Sanitization Steps"/>
+ </br>
+
