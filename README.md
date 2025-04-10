@@ -149,5 +149,5 @@ Tracking and verifying remediation efforts.
  <img src="https://imgur.com/AHRuqXf.png"  height="60%" width="60%" alt="Disk Sanitization Steps"/>
  </br>
 
- <h3> Unpausing Windows Update</h3>
+ <h3> - Unpausing Windows Update</h3>
  <h3> - Remediate SMB </h3>
